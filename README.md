@@ -1,0 +1,4 @@
+
+# 🏙️ Air Quality in Indian Cities
+
+This project, **Air Quality in Indian Cities**, is a Python-based data analysis script that examines air pollution levels—PM2.5, NO₂, and SO₂—across nine Indian cities using the `pandas`, `matplotlib`, and `seaborn` libraries. The script reads hardcoded data, constructs a DataFrame, and performs key computations such as average PM2.5 levels, identifying the city with the highest NO₂, and calculating the Pearson correlation between PM2.5 and NO₂. It generates clear visualizations including bar charts for NO₂ and PM2.5 levels by city, and a scatter plot to show the relationship between PM2.5 and NO₂, colored by city. The code is fully self-contained, requires no external files or APIs, and is ideal for beginners in data science looking to practice data manipulation, statistical analysis, and visualization using Python.
